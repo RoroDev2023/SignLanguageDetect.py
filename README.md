@@ -2,7 +2,7 @@
 
 <img width="514" alt="Screenshot 2023-08-08 at 15 35 14" src="https://github.com/RoroDev2023/SignLanguageDetect.py/assets/135022367/7c8cbf9c-3fa7-43ce-b217-9edb29ffd787">
 
-#Warning:
+# Warning:
 
 the `test1.py` file is the **Main** file. It contains the logic of the project and is the basis of the project
 
